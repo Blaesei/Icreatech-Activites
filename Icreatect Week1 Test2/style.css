@@ -1,0 +1,146 @@
+body{
+    margin: 30px;
+    background: linear-gradient(white, rgb(203, 203, 243))
+}
+
+.form1{
+    padding: 20px;
+    background: transparent;
+    border: 2px solid rgb(74, 12, 247);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 30px rgb(155, 150, 150);
+}
+
+.form2{
+    padding: 20px;
+    background: transparent;
+    border: 2px solid rgb(74, 12, 247);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 30px rgb(155, 150, 150);
+}
+
+.form3{
+    padding: 20px;
+    background: transparent;
+    border: 2px solid rgb(74, 12, 247);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 30px rgb(155, 150, 150);
+}
+
+.contact{
+    color:blueviolet;
+    font-family: "Poppins";
+}
+
+.name{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.message{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.submitbtn{
+    width: 70px;
+    height: 30px;
+    background: rgb(81, 8, 150);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1em;
+    font-family: "Roboto Condensed";
+    color: rgb(240, 193, 193);
+}
+
+.login11{
+    color:blueviolet;
+    font-family: "Poppins";
+}
+
+.username{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.password{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.loginbtn{
+    width: 70px;
+    height: 30px;
+    background: rgb(81, 8, 150);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1em;
+    font-family: "Roboto Condensed";
+    color: rgb(240, 193, 193);
+}
+
+.survey01{
+    color:blueviolet;
+    font-family: "Poppins";
+}
+
+.name2{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.age{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.comments{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+}
+
+.gender{
+    font-family: "Poppins";
+    margin-bottom: 0px;
+}
+
+.Survey1{
+    font-family: "Poppins";
+}
+
+.Survey2{
+    font-family: "Poppins";
+}
+
+.submit2btn{
+    width: 70px;
+    height: 30px;
+    background: rgb(81, 8, 150);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1em;
+    font-family: "Roboto Condensed";
+    color: rgb(240, 193, 193);
+}
